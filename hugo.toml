@@ -1,0 +1,11 @@
+baseURL = 'https://glykeann.netlify.app/'
+languageCode = 'en-us'
+title = 'Glykeann'
+theme = 'LoveIt'
+[params]
+    [params.header]
+        [params.header.title]
+            name = 'Glykeann'
+    [params.home]
+        [params.home.profile]
+            subtitle = 'Nice Store'
